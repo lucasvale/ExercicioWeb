@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pichau/cadastroUsuario/app/Http/routes.php</file>
+            <file>file:/C:/Users/Pichau/cadastroUsuario/config/database.php</file>
+            <file>file:/C:/Users/Pichau/cadastroUsuario/resources/views/listagem.blade.php</file>
+            <file>file:/C:/Users/Pichau/cadastroUsuario/app/Usuario.php</file>
+            <file>file:/C:/Users/Pichau/cadastroUsuario/resources/views/layouts/principal.blade.php</file>
+            <file>file:/C:/Users/Pichau/cadastroUsuario/app/Http/Controllers/ControllerUsuario.php</file>
+            <file>file:/C:/Users/Pichau/cadastroUsuario/resources/views/formulario.blade.php</file>
+            <file>file:/C:/Users/Pichau/cadastroUsuario/.env</file>
+        </group>
+    </open-files>
+</project-private>
